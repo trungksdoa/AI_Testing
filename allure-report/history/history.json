@@ -1,0 +1,1 @@
+{"c2d31b6028e67588dc8d06b72f81f5cf:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"daa233b9d0259449","status":"broken","statusDetails":"Clickable element \"#wrong-login-button\" was not found by text|CSS|XPath","time":{"start":1729757006993,"stop":1729757016342,"duration":9349}}]}}
